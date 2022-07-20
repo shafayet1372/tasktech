@@ -6,7 +6,7 @@ export default function Culture() {
         <Container maxWidth="lg" >
             <Box mt={10}>
                 <Typography textAlign="center" fontWeight="bold" fontSize="30px">OUR CULTURE</Typography>
-                <Box mt={5} display="flex" sx={{ flexDirection: { xs: 'column', sm: "row" } }} justifyContent="space-evenly">
+                <Box mt={5} display="flex" sx={{ flexDirection: { xs: 'column', sm: "row" } }} justifyContent="space-between">
                     <Box>
                         <Box display="flex" alignItems='center' gap="5px" mb={1}>
                             <Box sx={{ height: '15px', width: '15px', backgroundColor: '#5BBC2E', borderRadius: '50%' }}>

@@ -93,7 +93,7 @@ export default function Position() {
         <AccordionDetails>
           <List>
             <ListItem sx={{ backgroundColor: '#FFFFFF', marginBottom: "5px", display: 'flex', justifyContent: 'space-between' }}>
-              <Typography></Typography>
+              <Typography>Sales Executive</Typography>
               <Button variant="outlined" sx={{ borderRadius: '1px solid rgba(0, 0, 0, 0.1)', backgroundColor: 'rgb(255, 255, 255)', border: '1px solid #80808080', color: 'rgba(0, 0, 0, 0.6)', "&:hover": { backgroundColor: '#182F59', color: 'white' } }}>Apply Now</Button>
 
             </ListItem>
@@ -120,7 +120,7 @@ export default function Position() {
         <AccordionDetails>
           <List>
             <ListItem sx={{ backgroundColor: '#FFFFFF', marginBottom: "5px", display: 'flex', justifyContent: 'space-between' }}>
-              <Typography></Typography>
+              <Typography>Sales Executive</Typography>
               <Button variant="outlined" sx={{ borderRadius: '1px solid rgba(0, 0, 0, 0.1)', backgroundColor: 'rgb(255, 255, 255)', border: '1px solid #80808080', color: 'rgba(0, 0, 0, 0.6)', "&:hover": { backgroundColor: '#182F59', color: 'white' } }}>Apply Now</Button>
 
             </ListItem>
@@ -146,7 +146,7 @@ export default function Position() {
         <AccordionDetails>
           <List>
             <ListItem sx={{ backgroundColor: '#FFFFFF', marginBottom: "5px", display: 'flex', justifyContent: 'space-between' }}>
-              <Typography></Typography>
+              <Typography>Sales Executive</Typography>
               <Button variant="outlined" sx={{ borderRadius: '1px solid rgba(0, 0, 0, 0.1)', backgroundColor: 'rgb(255, 255, 255)', border: '1px solid #80808080', color: 'rgba(0, 0, 0, 0.6)', "&:hover": { backgroundColor: '#182F59', color: 'white' } }}>Apply Now</Button>
 
             </ListItem>
@@ -171,7 +171,7 @@ export default function Position() {
         <AccordionDetails>
           <List>
             <ListItem sx={{ backgroundColor: '#FFFFFF', marginBottom: "5px", display: 'flex', justifyContent: 'space-between' }}>
-              <Typography></Typography>
+              <Typography>Sales Executive</Typography>
               <Button variant="outlined" sx={{ borderRadius: '1px solid rgba(0, 0, 0, 0.1)', backgroundColor: 'rgb(255, 255, 255)', border: '1px solid #80808080', color: 'rgba(0, 0, 0, 0.6)', "&:hover": { backgroundColor: '#182F59', color: 'white' } }}>Apply Now</Button>
 
             </ListItem>
