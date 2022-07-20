@@ -7,7 +7,7 @@ body {
 .css-xdmu94-MuiContainer-root {
   display: flex !important;
   flex-direction: column !important;
-  gap: 4px;
+  gap: 10px;
 }
 
 .MuiPaper-elevation {
