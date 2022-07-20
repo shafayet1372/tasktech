@@ -1,0 +1,19 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+.css-xdmu94-MuiContainer-root {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 4px;
+}
+
+.MuiPaper-elevation {
+  background-color: #f5f5f5 !important;
+}
+
+.css-1rgpk2z {
+  padding-left: 0px !important;
+}
